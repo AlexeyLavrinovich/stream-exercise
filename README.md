@@ -1,0 +1,1 @@
+<h1>Stream exercise</h1>
